@@ -1,7 +1,5 @@
 """student_EDA_firstyear.py
 
-Beginners-friendly script for the Student Wellbeing EDA and simple Linear Regression.
-Generates cleaned CSV, plots, and prints basic model metrics.
 
 Run: python student_EDA_firstyear.py
 """
